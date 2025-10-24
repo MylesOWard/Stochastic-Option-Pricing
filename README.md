@@ -6,6 +6,8 @@ This repository implements and compares stochastic models for option pricing, ra
 
 It’s structured as a modular, research-style toolkit with all core implementations located in `src/`, accompanied by polished Jupyter notebooks that demonstrate the mathematics, numerical methods, and empirical behaviour of each pricing model.  
 
+---
+
 ## Project Overview
 
 Option pricing seeks to model the fair value of derivatives under uncertain future asset prices.  
